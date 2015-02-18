@@ -169,12 +169,14 @@ with open('all_details') as f:
     while line:
         if line.startswith('#'):
             line = f.readline()
+            continue
         if Particle.isparticle(line):
             dfdict.update(particle.getdict())
             particle = Particle(line)
         elif particle is not None:
             particle.add(line)
         line = f.readline()
+    dfdict.update(particle.getdict())
 
 df = pandas.DataFrame.from_dict(dfdict)
 df.to_csv('pdg_particles.csv')

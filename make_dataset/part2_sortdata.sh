@@ -1,7 +1,14 @@
 #!/bin/bash
 
+DIR=rpp2014v1/pdgLive/
+if [ "$#" -eq 1 ]
+then
+  DIR=$1
+fi
+#echo $DIR
+
 # Get Particle names
-grep MASS Particle.action* 2> /dev/null \
+grep MASS $DIR/Particle.action* 2> /dev/null \
   | sed -n 's/.*\(\$.*\$\).*/\1/p' \
   | perl -p  -e 's/^\$// ; s/\$$// ; s/\$\s\$/\n/g' \
   | grep '^{{' \
@@ -10,7 +17,7 @@ grep MASS Particle.action* 2> /dev/null \
   > particle_names
 
 function get_details {
-  fgrep -h -A 5 $1 Particle.action* \
+  fgrep -h -A 5 $1 $DIR/Particle.action* \
     > particle_$1
 }
 
