@@ -73,7 +73,7 @@ class Particle(object):
             self.mass['masserrup'] = float(mass['up'])
             self.mass['masserr'] = np.sqrt(
                 self.mass['masserrup']**2 + self.mass['masserrlo']**2
-            )
+            ) / np.sqrt(2.)
         if units == 'MeV':
             return
         factor = {'eV':1e-6, 'keV':1e-3, 'GeV':1e3, 'TeV':1e6}[units]
@@ -109,7 +109,9 @@ class Particle(object):
             self.tau['life'] = search['t']*(10**search['exp'])
             self.tau['lifeerrlow'] = search['lo']*(10**search['exp'])
             self.tau['lifeerrup'] = search['up']*(10**search['exp'])
-            self.tau['lifeerr'] = np.sqrt(self.tau['lifeerrlow']**2 + self.tau['lifeerrup']**2)
+            self.tau['lifeerr'] = np.sqrt(
+                self.tau['lifeerrlow']**2 + self.tau['lifeerrup']**2
+            ) / np.sqrt(2.)
         return
 
     def getwidth(self, line):
@@ -128,6 +130,15 @@ class Particle(object):
             self.width['widtherr'] = float(search['err'])
             self.width['widtherrlow'] = float(search['err'])
             self.width['widtherrup'] = float(search['err'])
+        elif width.count('^{+'):
+            search = re.search('(?P<w>[0-9\.]*)\^{\+(?P<up>.*)}_{-(?P<lo>.*)}', width)
+            search = {key: float(item) for key, item in search.groupdict().iteritems()}
+            self.width['width'] = search['w']
+            self.width['widtherrlow'] = search['lo']
+            self.width['widtherrup'] = search['up']
+            self.width['widtherr'] = np.sqrt(
+                self.width['widtherrlow']**2 + self.width['widtherrup']**2
+            ) / np.sqrt(2.)
         #else:
             #print width
         #if units != 'MeV':
