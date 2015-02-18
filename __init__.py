@@ -26,19 +26,13 @@ def _fuzzy_match(s1, s2):
 
 
 ################################################################################
-def guess(self, n):
+def guess_list(self, n):
     '''Guess what particle is interesting and return the relevant object'''
     try:
         from fuzzywuzzy import fuzz
         tpls = [(k, fuzz.ratio(n, k)) for k in self.keys()]
-        tpls = sorted(tpls, key=lambda x:x[1], reverse=True)[:5]
-        if tpls[0][1]<60:
-            raise IndexError(
-                '''
-                Cannot guess reliably from {}
-                Best guesses are {} and {}
-                '''.format(n, *tpls))
-        return self[tpls[0][0]]
+        tpls = sorted(tpls, key=lambda x:x[1], reverse=True)
+        return tpls
     except ImportError:
         global _FUZZ_ERROR_MESSAGE
         if not _FUZZ_ERROR_MESSAGE:
@@ -47,20 +41,34 @@ def guess(self, n):
         _FUZZ_ERROR_MESSAGE = True
         tpls = [(k, _fuzzy_match(n, k)) for k in self.keys()]
         tpls = [x for x in tpls if x[1]]
-        if not len(tpls):
-            raise IndexError(
-                '''
-                Cannot guess reliably from {}
-                No guesses
-                '''.format(n))
-        elif len(tpls)>1:
-            raise IndexError(
-                '''
-                Cannot guess reliably from {}
-                Some guesses are {} and {}
-                '''.format(n, *tpls))
-        return self[tpls[0][0]]
+        return tpls
 
+
+################################################################################
+def guess(self, n):
+    '''Guess what particle is interesting and return the relevant object'''
+    tpls = guess_list(self, n)
+    if len(tpls) > 10:
+        if tpls[0][1]<60:
+            raise IndexError(
+                '''
+                Cannot guess reliably from {}
+                Best guesses are {} and {}
+                '''.format(n, *tpls))
+            return self[tpls[0][0]]
+    elif not len(tpls):
+        raise IndexError(
+            '''
+            Cannot guess reliably from {}
+            No guesses
+            '''.format(n))
+    elif len(tpls)>1:
+        raise IndexError(
+            '''
+            Cannot guess reliably from {}
+            Some guesses are {} and {}
+            '''.format(n, *tpls))
+    return self[tpls[0][0]]
 
 ################################################################################
 class DetailErr(pandas.Series):
@@ -110,6 +118,10 @@ class Particles(pandas.DataFrame):
 
     def guess(self, n):
         return guess(self, n)
+
+    def find(self, name, n=5):
+        '''Fine name in database, best n matches in order'''
+        return [x[0] for x in guess_list(self, name)[:n]]
 
 
 ################################################################################
