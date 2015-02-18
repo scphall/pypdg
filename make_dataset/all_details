@@ -1,0 +1,1761 @@
+
+{{\mathit A}^{0}}
+MASS:&nbsp;</td> -- <a style="text-decoration:none" href="./DataBlock.action?node=S029IAA">Invisible ${{\mathit A}^{0}}$ (Axion) MASS LIMITS from Astrophysics and Cosmology</a> </td> <td>&nbsp;</td> -- <a style="text-decoration:none" href="./DataBlock.action?node=S029AXA">${{\mathit A}^{0}}$ (Axion) MASS LIMITS from Astrophysics and Cosmology</a> </td> <td>&nbsp;</td> -- <a style="text-decoration:none" href="./DataBlock.action?node=S029IAA">Invisible ${{\mathit A}^{0}}$ (Axion) MASS LIMITS from Astrophysics and Cosmology</a> </td> <td>&nbsp;</td>
+LIFE:
+WIDTH:
+{{\mathit B}^{*}}
+MASS:$5325.2 \pm0.4$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+LIFE:
+WIDTH:
+{{\mathit B}^{0}}
+MASS:$5279.58 \pm0.17$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+LIFE:$(1.519 \pm.005) \times 10^{-12}$ s&nbsp; </td> <td>$(1.568 \pm.009) \times 10^{-12}$ s&nbsp; </td>
+WIDTH:
+{{\mathit B}^{\pm}}
+MASS:$5279.26 \pm0.17$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+LIFE:$(1.638 \pm.004) \times 10^{-12}$ s&nbsp; </td> <td>$(1.568 \pm.009) \times 10^{-12}$ s&nbsp; </td>
+WIDTH:
+{{\mathit B}_{J}^{*}{(5732)}}
+MASS:$5698 \pm8$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.2)</span>
+LIFE:
+WIDTH:$128 \pm18$ MeV&nbsp; </td>
+{{\mathit B}_{\mathrm 1}{(5721)}^{0}}
+MASS:$5723.5 \pm2.0$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.1)</span>
+LIFE:
+WIDTH:
+{{\mathit B}_{\mathrm 2}^{*}{(5747)}^{0}}
+MASS:$5743 \pm5$ MeV&nbsp; <span style="font-size: 12px;">(S = 2.9)</span>
+LIFE:
+WIDTH:$23 ^{+5}_{-11}$ MeV&nbsp; </td>
+{{\mathit B}_{c}^{\pm}}
+MASS:$6.2756 \pm0.0011$ GeV&nbsp; </td>
+LIFE:$(0.452 \pm0.033) \times 10^{-12}$ s&nbsp; </td>
+WIDTH:
+{{\mathit B}_{s\mathrm 1}{(5830)}^{0}}
+MASS:$5828.7 \pm0.4$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.2)</span>
+LIFE:
+WIDTH:
+{{\mathit B}_{s\mathrm 2}^{*}{(5840)}^{0}}
+MASS:$5839.96 \pm0.20$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$1.6 \pm0.5$ MeV&nbsp; </td>
+{{\mathit B}_{s}^{*}}
+MASS:$5415.4 ^{+2.4}_{-2.1}$ MeV&nbsp; <span style="font-size: 12px;">(S = 3.0)</span>
+LIFE:
+WIDTH:
+{{\mathit B}_{s}^{0}}
+MASS:$5366.77 \pm0.24$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+LIFE:$(1.568 \pm.009) \times 10^{-12}$ s&nbsp; </td> <td>$(1.512 \pm0.007) \times 10^{-12}$ s&nbsp; </td> <td>$(1.465 \pm0.031) \times 10^{-12}$ s&nbsp; </td> <td>$(1.479 \pm.012) \times 10^{-12}$ s&nbsp; </td>
+WIDTH:
+{{\mathit D}^{*}{(2007)}^{0}}
+MASS:$2006.96 \pm0.10$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+LIFE:
+WIDTH:$<2.1$ MeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=90.0%<!--</span>-->
+{{\mathit D}^{*}{(2010)}^{\pm}}
+MASS:$2010.26 \pm0.07$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.1)</span>
+LIFE:
+WIDTH:$83.4 \pm1.8$ keV&nbsp; </td>
+{{\mathit D}^{*}{(2640)}^{\pm}}
+MASS:$2637 \pm6$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$<15$ MeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>-->
+{{\mathit D}^{0}}
+MASS:&nbsp;</td> -- <a style="text-decoration:none" href="./DataBlock.action?node=S032M">${{\mathit D}^{0}}$ MASS</a> </td> <td>$1864.84 \pm0.07$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.1)</span>
+LIFE:$(4.101 \pm0.015) \times 10^{-13}$ s&nbsp; </td>
+WIDTH:&nbsp;</td>
+{{\mathit D}^{\pm}}
+MASS:$1869.61 \pm0.10$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.1)</span>
+LIFE:$(1.040 \pm0.007) \times 10^{-12}$ s&nbsp; </td>
+WIDTH:
+{{\mathit D}_{\mathrm 0}^{*}{(2400)}^{0}}
+MASS:$2318 \pm29$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.7)</span>
+LIFE:
+WIDTH:$267 \pm40$ MeV&nbsp; </td>
+{{\mathit D}_{\mathrm 0}^{*}{(2400)}^{\pm}}
+MASS:$2403 \pm40$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$283 \pm40$ MeV&nbsp; </td>
+{{\mathit D}_{\mathrm 1}{(2420)}^{0}}
+MASS:$2421.4 \pm0.6$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.2)</span>
+LIFE:
+WIDTH:$27.4 \pm2.5$ MeV&nbsp; <span style="font-size: 12px;">(S = 2.3)</span>
+{{\mathit D}_{\mathrm 1}{(2420)}^{\pm}}
+MASS:$2423.2 \pm2.4$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.5)</span>
+LIFE:
+WIDTH:$25 \pm6$ MeV&nbsp; </td>
+{{\mathit D}_{\mathrm 1}{(2430)}^{0}}
+MASS:$2427 \pm40$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$384 ^{+130}_{-110}$ MeV&nbsp; </td>
+{{\mathit D}_{\mathrm 2}^{*}{(2460)}^{\pm}}
+MASS:$2464.3 \pm1.6$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.7)</span>
+LIFE:
+WIDTH:$37 \pm6$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.4)</span>
+{{\mathit D}_{\mathrm 2}^{*}{(2460)}}
+MASS:$2462.6 \pm0.6$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.2)</span>
+LIFE:
+WIDTH:
+{{\mathit D}_{s\mathrm 0}^{*}{(2317)}^{\pm}}
+MASS:$2317.7 \pm0.6$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.1)</span>
+LIFE:
+WIDTH:$<3.8$ MeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>-->
+{{\mathit D}_{s\mathrm 1}^{*}{(2700)}^{+}}
+MASS:$2709 \pm4$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$117 \pm13$ MeV&nbsp; </td>
+{{\mathit D}_{s\mathrm 1}{(2460)}^{\pm}}
+MASS:$2459.5 \pm0.6$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.1)</span>
+LIFE:
+WIDTH:$<3.5$ MeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>-->
+{{\mathit D}_{s\mathrm 1}{(2536)}^{\pm}}
+MASS:$2535.10 \pm0.08$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.1)</span>
+LIFE:
+WIDTH:$0.92 \pm0.05$ MeV&nbsp; </td>
+{{\mathit D}_{s\mathrm 2}^{*}{(2573)}}
+MASS:$2571.9 \pm0.8$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+LIFE:
+WIDTH:$17 \pm4$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.3)</span>
+{{\mathit D}_{s}^{*\pm}}
+MASS:$2112.1 \pm0.4$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+LIFE:
+WIDTH:$<1.9$ MeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=90.0%<!--</span>-->
+{{\mathit D}_{s}^{\pm}}
+MASS:$1968.30 \pm0.11$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.1)</span>
+LIFE:$(5.00 \pm0.07) \times 10^{-13}$ s&nbsp; <span style="font-size: 12px;">(S = 1.3)</span>
+WIDTH:
+{{\mathit D}{(2550)}^{0}}
+MASS:$2539 \pm8$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$130 \pm18$ MeV&nbsp; </td>
+{{\mathit D}{(2600)}}
+MASS:$2612 \pm6$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.9)</span>
+LIFE:
+WIDTH:$93 \pm14$ MeV&nbsp; </td>
+{{\mathit D}{(2750)}}
+MASS:$2761 \pm5$ MeV&nbsp; <span style="font-size: 12px;">(S = 2.5)</span>
+LIFE:
+WIDTH:$63 \pm6$ MeV&nbsp; </td>
+{{\mathit H}^{0}}
+MASS:$125.7 \pm0.4$ GeV&nbsp; </td> <td>$125.7 \pm0.4$ GeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td> -- <a style="text-decoration:none" href="./DataBlock.action?node=S126W">${{\mathit H}^{0}}$ DECAY WIDTH</a> </td> <td>&nbsp;</td>
+{{\mathit H}^{\pm\pm}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit H}^{\pm}}
+MASS:$> 80$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=S064HGC">${{\mathit H}^{\pm}}$ (Charged Higgs) MASS LIMITS</a> </td> <td>$> 80$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>-->
+LIFE:
+WIDTH:
+{{\mathit J / \psi}{(1S)}}
+MASS:$3096.916 \pm0.011$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$92.9 \pm2.8$ keV&nbsp; <span style="font-size: 12px;">(S = 1.1)</span>
+{{\mathit K}^{*}{(1410)}}
+MASS:$1414 \pm15$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.3)</span>
+LIFE:
+WIDTH:$232 \pm21$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.1)</span>
+{{\mathit K}^{*}{(1680)}}
+MASS:$1717 \pm27$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.4)</span>
+LIFE:
+WIDTH:$322 \pm110$ MeV&nbsp; <span style="font-size: 12px;">(S = 4.2)</span>
+{{\mathit K}^{*}{(892)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit K}^{0}}
+MASS:$497.614 \pm0.024$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.6)</span>
+LIFE:
+WIDTH:
+{{\mathit K}^{\pm}}
+MASS:$493.677 \pm0.016$ MeV&nbsp; <span style="font-size: 12px;">(S = 2.8)</span>
+LIFE:$(1.2380 \pm0.0021) \times 10^{-8}$ s&nbsp; <span style="font-size: 12px;">(S = 1.9)</span>
+WIDTH:
+{{\mathit K}_{\mathrm 0}^{*}{(1430)}}
+MASS:$1425 \pm50$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$270 \pm80$ MeV&nbsp; </td>
+{{\mathit K}_{\mathrm 0}^{*}{(1950)}}
+MASS:$1945 \pm22$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$201 \pm90$ MeV&nbsp; </td>
+{{\mathit K}_{\mathrm 0}^{*}{(800)}}
+MASS:$682 \pm29$ MeV&nbsp; <span style="font-size: 12px;">(S = 2.4)</span>
+LIFE:
+WIDTH:$547 \pm24$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.1)</span>
+{{\mathit K}_{\mathrm 1}{(1270)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit K}_{\mathrm 1}{(1400)}}
+MASS:$1403 \pm7$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$174 \pm13$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.6)</span>
+{{\mathit K}_{\mathrm 1}{(1650)}}
+MASS:$1650 \pm50$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$150 \pm50$ MeV&nbsp; </td>
+{{\mathit K}_{\mathrm 2}^{*}{(1430)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit K}_{\mathrm 2}^{*}{(1980)}}
+MASS:$1973 \pm26$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$373 \pm70$ MeV&nbsp; </td>
+{{\mathit K}_{\mathrm 2}{(1580)}}
+MASS:&nbsp;</td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit K}_{\mathrm 2}{(1770)}}
+MASS:$1773 \pm8$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$186 \pm14$ MeV&nbsp; </td>
+{{\mathit K}_{\mathrm 2}{(1820)}}
+MASS:$1816 \pm13$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$276 \pm35$ MeV&nbsp; </td>
+{{\mathit K}_{\mathrm 2}{(2250)}}
+MASS:$2247 \pm17$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$180 \pm30$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.4)</span>
+{{\mathit K}_{\mathrm 3}^{*}{(1780)}}
+MASS:$1776 \pm7$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.1)</span>
+LIFE:
+WIDTH:$159 \pm21$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.3)</span>
+{{\mathit K}_{\mathrm 3}{(2320)}}
+MASS:$2324 \pm24$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$150 \pm30$ MeV&nbsp; </td>
+{{\mathit K}_{\mathrm 4}^{*}{(2045)}}
+MASS:$2045 \pm9$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.1)</span>
+LIFE:
+WIDTH:$198 \pm30$ MeV&nbsp; </td>
+{{\mathit K}_{\mathrm 4}{(2500)}}
+MASS:$2490 \pm20$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit K}_{\mathrm 5}^{*}{(2380)}}
+MASS:$2382 \pm24$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$178 \pm50$ MeV&nbsp; </td>
+{{\mathit K}{(1460)}}
+MASS:&nbsp;</td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit K}{(1630)}}
+MASS:$1629 \pm7$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$16 ^{+19}_{-16}$ MeV&nbsp; </td>
+{{\mathit K}{(1830)}}
+MASS:&nbsp;</td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit K}{(3100)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit L}^{\pm}}
+MASS:$>100.8$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=S025MSS">Stable Charged Heavy Lepton (${{\mathit L}^{\pm}}$) MASS LIMITS</a> </td> <td>$>102.6$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=S025MS">Sequential Charged Heavy Lepton (${{\mathit L}^{\pm}}$) MASS LIMITS</a> </td> <td>$>100.8$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=S025MSS">Stable Charged Heavy Lepton (${{\mathit L}^{\pm}}$) MASS LIMITS</a> </td> <td>$>102.6$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>-->
+LIFE:
+WIDTH:
+{{\mathit N}{(1440)}}
+MASS:$1410 TO 1430 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$250 TO 350 $ MeV&nbsp; </td>
+{{\mathit N}{(1520)}}
+MASS:$1510 TO 1515 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$100 TO 115 $ MeV&nbsp; </td>
+{{\mathit N}{(1535)}}
+MASS:$1525 TO 1535 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$125 TO 150 $ MeV&nbsp; </td>
+{{\mathit N}{(1650)}}
+MASS:$1645 TO 1655 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$110 to 140 $ MeV&nbsp; </td>
+{{\mathit N}{(1675)}}
+MASS:$1670 TO 1675 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$130 TO 150 $ MeV&nbsp; </td>
+{{\mathit N}{(1680)}}
+MASS:$1680 TO 1685 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$120 TO 130 $ MeV&nbsp; </td>
+{{\mathit N}{(1685)}}
+MASS:&nbsp;</td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit N}{(1700)}}
+MASS:$1650 TO 1700 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$100 to 150 $ MeV&nbsp; </td>
+{{\mathit N}{(1710)}}
+MASS:$1680 TO 1710 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$50 TO 100 $ MeV&nbsp; </td>
+{{\mathit N}{(1720)}}
+MASS:$1700 TO 1720 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$150 to 250 $ MeV&nbsp; </td>
+{{\mathit N}{(1860)}}
+MASS:$1820 to 1860 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit N}{(1875)}}
+MASS:$1820 to 1875 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit N}{(1880)}}
+MASS:&nbsp;</td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit N}{(1895)}}
+MASS:&nbsp;</td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit N}{(1900)}}
+MASS:$\approx1900$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$~250$ MeV&nbsp; </td>
+{{\mathit N}{(1990)}}
+MASS:$\approx1990$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit N}{(2000)}}
+MASS:$1950 to 2050 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit N}{(2040)}}
+MASS:$2052 ^{+13}_{-21}$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$191 \pm33$ MeV&nbsp; </td>
+{{\mathit N}{(2060)}}
+MASS:$\approx2060$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit N}{(2100)}}
+MASS:$\approx2100$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit N}{(2120)}}
+MASS:$2120$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit N}{(2190)}}
+MASS:$2100 TO 2190 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$300 TO 500 $ MeV&nbsp; </td>
+{{\mathit N}{(2220)}}
+MASS:$2200 TO 2250 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$350 TO 400 $ MeV&nbsp; </td>
+{{\mathit N}{(2250)}}
+MASS:$2200 TO 2275 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$230 TO 500 $ MeV&nbsp; </td>
+{{\mathit N}{(2300)}}
+MASS:$2300 ^{+120}_{-30}$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$340 ^{+110}_{-70}$ MeV&nbsp; </td>
+{{\mathit N}{(2570)}}
+MASS:$2570 ^{+40}_{-14}$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$250 ^{+70}_{-32}$ MeV&nbsp; </td>
+{{\mathit N}{(2600)}}
+MASS:$2550 TO 2600 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$500 TO 650 $ MeV&nbsp; </td>
+{{\mathit N}{(2700)}}
+MASS:$\approx2700$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit N}}(\sim{}
+MASS:$\approx3000$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit W}}
+MASS:$80.385 \pm0.015$ GeV&nbsp; </td> <td>&nbsp;</td> -- <a style="text-decoration:none" href="./DataBlock.action?node=S056W1C">MASS LIMITS for ${{\mathit W}^{'}}$ (Heavy Charged Vector Boson Other Than ${{\mathit W}}$) in Hadron Collider Experiments</a> </td> <td>$>2.900E3$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=S056MR">${{\mathit W}_{R}}$ (Right-Handed ${{\mathit W}}$ Boson) MASS LIMITS</a> </td> <td>$>715$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=90.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=S043M">${{\mathit W}}$ MASS</a> </td> <td>$80.385 \pm0.015$ GeV&nbsp; </td> <td>&nbsp;</td> -- <a style="text-decoration:none" href="./DataBlock.action?node=S056W1C">MASS LIMITS for ${{\mathit W}^{'}}$ (Heavy Charged Vector Boson Other Than ${{\mathit W}}$) in Hadron Collider Experiments</a> </td> <td>$>2.900E3$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=S056MR">${{\mathit W}_{R}}$ (Right-Handed ${{\mathit W}}$ Boson) MASS LIMITS</a> </td> <td>$>715$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=90.0%<!--</span>-->
+LIFE:
+WIDTH:$2.085 \pm0.042$ GeV&nbsp; </td> <td>$2.085 \pm0.042$ GeV&nbsp; </td>
+{{\mathit W}}/{{\mathit Z}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit X}_{c}}{{\mathit \ell}}{{\mathit \nu}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit X}{(10610)}^{0}}
+MASS:$10609 \pm6$ MeV&nbsp; </td>
+LIFE:
+WIDTH:
+{{\mathit X}{(10610)}^{\pm}}
+MASS:$10607.2 \pm2.0$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$18.4 \pm2.4$ MeV&nbsp; </td>
+{{\mathit X}{(10650)}^{\pm}}
+MASS:$10652.2 \pm1.5$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$11.5 \pm2.2$ MeV&nbsp; </td>
+{{\mathit X}{(1835)}}
+MASS:$1835.7 ^{+5.0}_{-3.2}$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$99 \pm50$ MeV&nbsp; <span style="font-size: 12px;">(S = 2.8)</span>
+{{\mathit X}{(1840)}}
+MASS:$1842 ^{+8}_{-5}$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$83 \pm18$ MeV&nbsp; </td>
+{{\mathit X}{(3823)}}
+MASS:$3823.1 \pm1.9$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$<24$ MeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=90.0%<!--</span>-->
+{{\mathit X}{(3900)}^{0}}
+MASS:$3904 \pm10$ MeV&nbsp; </td>
+LIFE:
+WIDTH:
+{{\mathit X}{(3900)}^{\pm}}
+MASS:$3888.7 \pm3.4$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.3)</span>
+LIFE:
+WIDTH:$35 \pm7$ MeV&nbsp; </td>
+{{\mathit X}{(3940)}}
+MASS:$3942 \pm9$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$37 ^{+27}_{-17}$ MeV&nbsp; </td>
+{{\mathit X}{(4020)}^{\pm}}
+MASS:$4023.9 \pm2.4$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$10 \pm6$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.7)</span>
+{{\mathit X}{(4050)}^{\pm}}
+MASS:$4051 ^{+24}_{-40}$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$82 ^{+50}_{-28}$ MeV&nbsp; </td>
+{{\mathit X}{(4140)}}
+MASS:&nbsp;</td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit X}{(4160)}}
+MASS:$4156 ^{+29}_{-25}$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$139 ^{+110}_{-60}$ MeV&nbsp; </td>
+{{\mathit X}{(4250)}^{\pm}}
+MASS:$4248 ^{+190}_{-50}$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$177 ^{+320}_{-70}$ MeV&nbsp; </td>
+{{\mathit X}{(4260)}}
+MASS:$4251 \pm9$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.6)</span>
+LIFE:
+WIDTH:$120 \pm12$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.1)</span>
+{{\mathit X}{(4350)}}
+MASS:$4351 \pm5$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$13 ^{+18}_{-10}$ MeV&nbsp; </td>
+{{\mathit X}{(4360)}}
+MASS:$4361 \pm13$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$74 \pm18$ MeV&nbsp; </td>
+{{\mathit X}{(4430)}^{\pm}}
+MASS:$4485 ^{+40}_{-25}$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$200 ^{+50}_{-60}$ MeV&nbsp; </td>
+{{\mathit X}{(4660)}}
+MASS:$4664 \pm12$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$48 \pm15$ MeV&nbsp; </td>
+{{\mathit X}}
+MASS:$3871.69 \pm0.17$ MeV&nbsp; </td>
+LIFE:
+WIDTH:
+{{\mathit Z}}
+MASS:
+LIFE:
+WIDTH:$2.4952 \pm0.0023$ GeV&nbsp; </td> <td>$2.4952 \pm0.0023$ GeV&nbsp; </td>
+{{\mathit \Delta}{(1232)}^{++}}
+MASS:&nbsp;</td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Delta}{(1232)}^{+}}
+MASS:&nbsp;</td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Delta}{(1232)}^{0}}
+MASS:&nbsp;</td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Delta}{(1232)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \Delta}{(1600)}}
+MASS:$1500 TO 1600 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$220 TO 320 $ MeV&nbsp; </td>
+{{\mathit \Delta}{(1620)}}
+MASS:$1600 TO 1630 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$130 TO 140 $ MeV&nbsp; </td>
+{{\mathit \Delta}{(1700)}}
+MASS:$1670 TO 1700 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$200 TO 300 $ MeV&nbsp; </td>
+{{\mathit \Delta}{(1750)}}
+MASS:$\approx1750$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Delta}{(1900)}}
+MASS:$1840 TO 1860 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Delta}{(1905)}}
+MASS:$1855 TO 1880 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$270 TO 330 $ MeV&nbsp; </td>
+{{\mathit \Delta}{(1910)}}
+MASS:$1860 TO 1890 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$220 TO 280 $ MeV&nbsp; </td>
+{{\mathit \Delta}{(1920)}}
+MASS:$1900 TO 1920 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$180 TO 260 $ MeV&nbsp; </td>
+{{\mathit \Delta}{(1930)}}
+MASS:$1900 TO 1950 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$220 TO 360 $ MeV&nbsp; </td>
+{{\mathit \Delta}{(1940)}}
+MASS:$1940 TO 2000 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Delta}{(1950)}}
+MASS:$1915 TO 1930 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$235 TO 285 $ MeV&nbsp; </td>
+{{\mathit \Delta}{(2000)}}
+MASS:$\approx2000$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Delta}{(2150)}}
+MASS:$\approx2150$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Delta}{(2200)}}
+MASS:$\approx2200$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Delta}{(2300)}}
+MASS:$\approx2300$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Delta}{(2350)}}
+MASS:$\approx2350$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Delta}{(2390)}}
+MASS:$\approx2390$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Delta}{(2400)}}
+MASS:$\approx2400$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Delta}{(2420)}}
+MASS:$2300 TO 2420 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$300 TO 400 $ MeV&nbsp; </td>
+{{\mathit \Delta}{(2750)}}
+MASS:$\approx2750$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Delta}{(2950)}}
+MASS:$\approx2950$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Delta}{(\sim3000)}}
+MASS:$\approx3000$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Lambda}_{b}^{0}}
+MASS:
+LIFE:$(1.451 \pm0.013) \times 10^{-12}$ s&nbsp; </td>
+WIDTH:
+{{\mathit \Lambda}_{b}{(5912)}^{0}}
+MASS:$5912.1 \pm0.4$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$<0.66$ MeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=90.0%<!--</span>-->
+{{\mathit \Lambda}_{b}{(5920)}^{0}}
+MASS:$5919.73 \pm0.32$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$<0.63$ MeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=90.0%<!--</span>-->
+{{\mathit \Lambda}_{c}^{+}}
+MASS:$341.65 \pm0.13$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.1)</span> -- ${{\mathit \Sigma}_{c}{(2455)}}-{{\mathit \Lambda}_{c}^{+}}$ MASS DIFFERENCES </th> </tr> -- <a style="text-decoration:none" href="./DataBlock.action?node=B119D">${{\mathit \Lambda}_{c}{(2595)}^{+}}-{{\mathit \Lambda}_{c}^{+}}$ MASS DIFFERENCE</a> </td> <td>$305.79 \pm0.24$ MeV&nbsp; </td> <td>$480.1 \pm2.4$ MeV&nbsp; </td> <td>$595.1 \pm0.4$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span> -- <a style="text-decoration:none" href="./DataBlock.action?node=S033M">${{\mathit \Lambda}_{c}^{+}}$ MASS</a> </td> <td>$2286.46 \pm0.14$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+LIFE:$(2.00 \pm0.06) \times 10^{-13}$ s&nbsp; <span style="font-size: 12px;">(S = 1.6)</span>
+WIDTH:
+{{\mathit \Lambda}_{c}{(2595)}^{+}}
+MASS:$2592.25 \pm0.28$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span> -- <a style="text-decoration:none" href="./DataBlock.action?node=B119D">${{\mathit \Lambda}_{c}{(2595)}^{+}}-{{\mathit \Lambda}_{c}^{+}}$ MASS DIFFERENCE</a> </td> <td>$305.79 \pm0.24$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$2.6 \pm0.6$ MeV&nbsp; </td>
+{{\mathit \Lambda}_{c}{(2595)}^{+}}-{{\mathit \Lambda}_{c}^{+}}
+MASS:$305.79 \pm0.24$ MeV&nbsp; </td>
+LIFE:
+WIDTH:
+{{\mathit \Lambda}_{c}{(2625)}^{+}}
+MASS:$2628.11 \pm0.19$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.1)</span> -- <a style="text-decoration:none" href="./DataBlock.action?node=B102D">${{\mathit \Lambda}_{c}{(2625)}^{+}}-{{\mathit \Lambda}_{c}^{+}}$ MASS DIFFERENCE</a> </td> <td>$341.65 \pm0.13$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.1)</span>
+LIFE:
+WIDTH:$<0.97$ MeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=90.0%<!--</span>-->
+{{\mathit \Lambda}_{c}{(2625)}^{+}}-{{\mathit \Lambda}_{c}^{+}}
+MASS:$341.65 \pm0.13$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.1)</span>
+LIFE:
+WIDTH:
+{{\mathit \Lambda}_{c}{(2765)}^{+}}
+MASS:$2766.6 \pm2.4$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span> -- <a style="text-decoration:none" href="./DataBlock.action?node=B150D">${{\mathit \Lambda}_{c}{(2765)}^{+}}-{{\mathit \Lambda}_{c}^{+}}$ MASS DIFFERENCE</a> </td> <td>$480.1 \pm2.4$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$50$ MeV&nbsp; </td>
+{{\mathit \Lambda}_{c}{(2765)}^{+}}-{{\mathit \Lambda}_{c}^{+}}
+MASS:$480.1 \pm2.4$ MeV&nbsp; </td>
+LIFE:
+WIDTH:
+{{\mathit \Lambda}_{c}{(2880)}^{+}}
+MASS:$2881.53 \pm0.35$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span> -- <a style="text-decoration:none" href="./DataBlock.action?node=B151D">${{\mathit \Lambda}_{c}{(2880)}^{+}}-{{\mathit \Lambda}_{c}^{+}}$ MASS DIFFERENCE</a> </td> <td>$595.1 \pm0.4$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+LIFE:
+WIDTH:$5.8 \pm1.1$ MeV&nbsp; </td>
+{{\mathit \Lambda}_{c}{(2880)}^{+}}-{{\mathit \Lambda}_{c}^{+}}
+MASS:$595.1 \pm0.4$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+LIFE:
+WIDTH:
+{{\mathit \Lambda}_{c}{(2940)}^{+}}
+MASS:$2939.3 ^{+1.4}_{-1.5}$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$17 ^{+8}_{-6}$ MeV&nbsp; </td>
+{{\mathit \Lambda}{(1405)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \Lambda}{(1520)}}
+MASS:$1519.5 \pm1.0$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$15.6 \pm1.0$ MeV&nbsp; </td>
+{{\mathit \Lambda}{(1600)}}
+MASS:$1560 TO 1600 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$50 TO 150 $ MeV&nbsp; </td>
+{{\mathit \Lambda}{(1670)}}
+MASS:$1660 TO 1670 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$25 TO 35 $ MeV&nbsp; </td>
+{{\mathit \Lambda}{(1690)}}
+MASS:$1685 TO 1690 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$50 TO 60 $ MeV&nbsp; </td>
+{{\mathit \Lambda}{(1710)}}
+MASS:$1713 \pm13$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$180 \pm40$ MeV&nbsp; </td>
+{{\mathit \Lambda}{(1800)}}
+MASS:$1720 TO 1800 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$200 TO 300 $ MeV&nbsp; </td>
+{{\mathit \Lambda}{(1810)}}
+MASS:$1750 TO 1810 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$50 TO 150 $ MeV&nbsp; </td>
+{{\mathit \Lambda}{(1820)}}
+MASS:$1815 TO 1820 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$70 TO 80 $ MeV&nbsp; </td>
+{{\mathit \Lambda}{(1830)}}
+MASS:$1810 TO 1830 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$60 TO 95 $ MeV&nbsp; </td>
+{{\mathit \Lambda}{(1890)}}
+MASS:$1850 TO 1890 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$60 TO 100 $ MeV&nbsp; </td>
+{{\mathit \Lambda}{(2000)}}
+MASS:$\approx2000$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Lambda}{(2020)}}
+MASS:$\approx2020$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Lambda}{(2050)}}
+MASS:$2056 \pm22$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$493 \pm60$ MeV&nbsp; </td>
+{{\mathit \Lambda}{(2100)}}
+MASS:$2090 TO 2100 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$100 TO 200 $ MeV&nbsp; </td>
+{{\mathit \Lambda}{(2110)}}
+MASS:$2090 TO 2110 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$150 TO 200 $ MeV&nbsp; </td>
+{{\mathit \Lambda}{(2325)}}
+MASS:$\approx2325$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Lambda}{(2350)}}
+MASS:$2340 TO 2350 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$100 TO 150 $ MeV&nbsp; </td>
+{{\mathit \Lambda}{(2585)}}
+MASS:$\approx2585$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Lambda}}
+MASS:$1115.683 \pm0.006$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+LIFE:
+WIDTH:
+{{\mathit \Omega}^{-}}
+MASS:$1672.45 \pm0.29$ MeV&nbsp; </td>
+LIFE:$(8.21 \pm0.11) \times 10^{-11}$ s&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+WIDTH:
+{{\mathit \Omega}_{b}^{-}}
+MASS:$6048.8 \pm3.2$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.5)</span>
+LIFE:
+WIDTH:
+{{\mathit \Omega}_{c}^{0}}
+MASS:$2695.2 \pm1.7$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.3)</span> -- <a style="text-decoration:none" href="./DataBlock.action?node=S053D">${{\mathit \Omega}_{c}{(2770)}^{0}}-{{\mathit \Omega}_{c}^{0}}$ MASS DIFFERENCE</a> </td> <td>$70.7 ^{+0.8}_{-0.9}$ MeV&nbsp; </td>
+LIFE:$(6.9 \pm1.2) \times 10^{-14}$ s&nbsp; </td>
+WIDTH:
+{{\mathit \Omega}_{c}{(2770)}^{0}}
+MASS:$2765.9 \pm2.0$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.2)</span> -- <a style="text-decoration:none" href="./DataBlock.action?node=S053D">${{\mathit \Omega}_{c}{(2770)}^{0}}-{{\mathit \Omega}_{c}^{0}}$ MASS DIFFERENCE</a> </td> <td>$70.7 ^{+0.8}_{-0.9}$ MeV&nbsp; </td>
+LIFE:
+WIDTH:
+{{\mathit \Omega}_{c}{(2770)}^{0}}-{{\mathit \Omega}_{c}^{0}}
+MASS:$70.7 ^{+0.8}_{-0.9}$ MeV&nbsp; </td>
+LIFE:
+WIDTH:
+{{\mathit \Omega}{(2250)}^{-}}
+MASS:$2252 \pm9$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$55 \pm18$ MeV&nbsp; </td>
+{{\mathit \Omega}{(2380)}^{-}}
+MASS:$\approx2380$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Omega}{(2470)}^{-}}
+MASS:$2474 \pm12$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$72 \pm33$ MeV&nbsp; </td>
+{{\mathit \Sigma}^{+}}
+MASS:$1189.37 \pm0.07$ MeV&nbsp; <span style="font-size: 12px;">(S = 2.2)</span>
+LIFE:$(8.018 \pm0.026) \times 10^{-11}$ s&nbsp; </td>
+WIDTH:
+{{\mathit \Sigma}^{-}}
+MASS:$1197.449 \pm0.030$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.2)</span>
+LIFE:$(1.479 \pm0.011) \times 10^{-10}$ s&nbsp; <span style="font-size: 12px;">(S = 1.3)</span>
+WIDTH:
+{{\mathit \Sigma}^{0}}
+MASS:$1192.642 \pm0.024$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+LIFE:$(.074 \pm.007) \times 10^{-18}$ s&nbsp; </td>
+WIDTH:
+{{\mathit \Sigma}_{b}^{*+}}
+MASS:$5832.1 \pm1.9$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$11.5 \pm2.8$ MeV&nbsp; </td>
+{{\mathit \Sigma}_{b}^{*-}}
+MASS:$5835.1 \pm1.9$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$7.5 \pm2.3$ MeV&nbsp; </td>
+{{\mathit \Sigma}_{b}^{*}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \Sigma}_{b}^{+}}
+MASS:$5811.3 \pm1.9$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$9.7 ^{+4.0}_{-3.0}$ MeV&nbsp; </td>
+{{\mathit \Sigma}_{b}^{-}}
+MASS:$5815.5 \pm1.8$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$4.9 ^{+3.3}_{-2.4}$ MeV&nbsp; </td>
+{{\mathit \Sigma}_{b}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \Sigma}_{c}{(2455)}^{++}}
+MASS:$2453.98 \pm0.16$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+LIFE:
+WIDTH:$2.26 \pm0.25$ MeV&nbsp; </td>
+{{\mathit \Sigma}_{c}{(2455)}^{+}}
+MASS:$2452.9 \pm0.4$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+LIFE:
+WIDTH:$<4.6$ MeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=90.0%<!--</span>-->
+{{\mathit \Sigma}_{c}{(2455)}^{0}}
+MASS:$2453.74 \pm0.16$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+LIFE:
+WIDTH:$2.16 \pm0.26$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.1)</span>
+{{\mathit \Sigma}_{c}{(2455)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \Sigma}_{c}{(2455)}}-{{\mathit \Lambda}_{c}^{+}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \Sigma}_{c}{(2520)}^{++}}
+MASS:$2517.9 \pm0.6$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.6)</span>
+LIFE:
+WIDTH:$14.9 \pm1.5$ MeV&nbsp; </td>
+{{\mathit \Sigma}_{c}{(2520)}^{+}}
+MASS:$2517.5 \pm2.3$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+LIFE:
+WIDTH:$<17$ MeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=90.0%<!--</span>-->
+{{\mathit \Sigma}_{c}{(2520)}^{0}}
+MASS:$2518.8 \pm0.6$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.5)</span>
+LIFE:
+WIDTH:$14.5 \pm1.5$ MeV&nbsp; </td>
+{{\mathit \Sigma}_{c}{(2520)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \Sigma}_{c}{(2800)}^{++}}
+MASS:$2801 ^{+4}_{-6}$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+LIFE:
+WIDTH:$75 ^{+22}_{-17}$ MeV&nbsp; </td>
+{{\mathit \Sigma}_{c}{(2800)}^{+}}
+MASS:$2792 ^{+14}_{-5}$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+LIFE:
+WIDTH:$62 ^{+60}_{-40}$ MeV&nbsp; </td>
+{{\mathit \Sigma}_{c}{(2800)}^{0}}
+MASS:$2806 ^{+5}_{-7}$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.3)</span>
+LIFE:
+WIDTH:$72 ^{+22}_{-15}$ MeV&nbsp; </td>
+{{\mathit \Sigma}_{c}{(2800)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \Sigma}{(1385)}^{+}}
+MASS:$1382.80 \pm0.35$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.9)</span>
+LIFE:
+WIDTH:$36.0 \pm0.7$ MeV&nbsp; </td>
+{{\mathit \Sigma}{(1385)}^{-}}
+MASS:$1387.2 \pm0.5$ MeV&nbsp; <span style="font-size: 12px;">(S = 2.2)</span>
+LIFE:
+WIDTH:$39.4 \pm2.1$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.7)</span>
+{{\mathit \Sigma}{(1385)}^{0}}
+MASS:$1383.7 \pm1.0$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.4)</span>
+LIFE:
+WIDTH:$36 \pm5$ MeV&nbsp; </td>
+{{\mathit \Sigma}{(1385)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \Sigma}{(1480)}}
+MASS:$\approx1480$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Sigma}{(1560)}}
+MASS:$\approx1560$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Sigma}{(1580)}}
+MASS:$\approx1580$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Sigma}{(1620)}}
+MASS:$\approx1620$ MeV&nbsp; </td> <td>$\approx1620$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td> -- <a style="text-decoration:none" href="./DataBlock.action?node=B078W">${{\mathit \Sigma}{(1620)}}$ WIDTH (PRODUCTION EXPERIMENTS)</a> </td> <td>&nbsp;</td>
+{{\mathit \Sigma}{(1660)}}
+MASS:$1630 TO 1660 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$40 TO 100 $ MeV&nbsp; </td>
+{{\mathit \Sigma}{(1670)}}
+MASS:$1665 TO 1670 $ MeV&nbsp; </td> <td>$\approx{}1670$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$40 TO 60 $ MeV&nbsp; </td> <td>&nbsp;</td>
+{{\mathit \Sigma}{(1690)}}
+MASS:$\approx1690$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Sigma}{(1730)}}
+MASS:$1727 \pm27$ MeV&nbsp; </td>
+LIFE:
+WIDTH:
+{{\mathit \Sigma}{(1750)}}
+MASS:$1730 TO 1750 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$60 TO 90 $ MeV&nbsp; </td>
+{{\mathit \Sigma}{(1770)}}
+MASS:$\approx1770$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Sigma}{(1775)}}
+MASS:$1770 TO 1775 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$105 TO 120 $ MeV&nbsp; </td>
+{{\mathit \Sigma}{(1840)}}
+MASS:$\approx1840$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Sigma}{(1880)}}
+MASS:$\approx1880$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Sigma}{(1900)}}
+MASS:$1900 \pm21$ MeV&nbsp; </td>
+LIFE:
+WIDTH:
+{{\mathit \Sigma}{(1915)}}
+MASS:$1900 TO 1915 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$80 TO 120 $ MeV&nbsp; </td>
+{{\mathit \Sigma}{(1940)}}
+MASS:$1900 TO 1940 $ MeV&nbsp; </td> <td>$1941 \pm18$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$150 TO 220 $ MeV&nbsp; </td>
+{{\mathit \Sigma}{(2000)}}
+MASS:$\approx2000$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Sigma}{(2030)}}
+MASS:$2025 TO 2030 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$150 TO 180 $ MeV&nbsp; </td>
+{{\mathit \Sigma}{(2070)}}
+MASS:$\approx2070$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Sigma}{(2080)}}
+MASS:$\approx2080$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Sigma}{(2100)}}
+MASS:$\approx2100$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Sigma}{(2250)}}
+MASS:$2210 TO 2250 $ MeV&nbsp; </td>
+LIFE:
+WIDTH:$60 TO 100 $ MeV&nbsp; </td>
+{{\mathit \Sigma}{(2455)}}
+MASS:$\approx2455$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Sigma}{(2620)}}
+MASS:$\approx2620$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Sigma}{(3000)}}
+MASS:$\approx3000$ MeV&nbsp; </td>
+LIFE:
+WIDTH:
+{{\mathit \Sigma}{(3170)}}
+MASS:$\approx3170$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Upsilon}{(10860)}}
+MASS:$10876 \pm11$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$55 \pm28$ MeV&nbsp; </td>
+{{\mathit \Upsilon}{(11020)}}
+MASS:$11019 \pm8$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$79 \pm16$ MeV&nbsp; </td>
+{{\mathit \Upsilon}{(1D)}}
+MASS:$10163.7 \pm1.4$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.7)</span>
+LIFE:
+WIDTH:
+{{\mathit \Upsilon}{(1S)}}
+MASS:$9460.30 \pm0.26$ MeV&nbsp; <span style="font-size: 12px;">(S = 3.3)</span>
+LIFE:
+WIDTH:$54.02 \pm1.25$ keV&nbsp; </td>
+{{\mathit \Upsilon}{(2S)}}
+MASS:$10023.26 \pm0.31$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$31.98 \pm2.63$ keV&nbsp; </td>
+{{\mathit \Upsilon}{(3S)}}
+MASS:$10355.2 \pm0.5$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$20.32 \pm1.85$ keV&nbsp; </td>
+{{\mathit \Upsilon}{(4S)}}
+MASS:$10579.4 \pm1.2$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$20.5 \pm2.5$ MeV&nbsp; </td>
+{{\mathit \Xi}^{-}}
+MASS:$1321.71 \pm0.07$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+LIFE:$(1.639 \pm0.015) \times 10^{-10}$ s&nbsp; </td>
+WIDTH:
+{{\mathit \Xi}^{0}}
+MASS:$1314.86 \pm0.20$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+LIFE:$(2.90 \pm0.09) \times 10^{-10}$ s&nbsp; </td>
+WIDTH:
+{{\mathit \Xi}_{b}^{-}}
+MASS:$5794.9 \pm0.9$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.1)</span>
+LIFE:$(1.56 ^{+0.27}_{-0.25}) \times 10^{-12}$ s&nbsp; </td>
+WIDTH:
+{{\mathit \Xi}_{b}^{0}}
+MASS:$5793.1 \pm2.5$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.1)</span>
+LIFE:
+WIDTH:
+{{\mathit \Xi}_{b}{(5945)}^{0}}
+MASS:$5949.3 \pm1.2$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$2.1 \pm1.7$ MeV&nbsp; </td>
+{{\mathit \Xi}_{b}}
+MASS:
+LIFE:$(.149 ^{+.019}_{-.018}) \times 10^{-11}$ s&nbsp; </td>
+WIDTH:
+{{\mathit \Xi}_{c}^{'+}}
+MASS:$2575.6 \pm3.1$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span> -- <a style="text-decoration:none" href="./DataBlock.action?node=S058D">${{\mathit \Xi}_{c}^{'+}}-{{\mathit \Xi}_{c}^{+}}$ MASS DIFFERENCE</a> </td> <td>$107.8 \pm3.0$ MeV&nbsp; </td>
+LIFE:
+WIDTH:
+{{\mathit \Xi}_{c}^{'+}}-{{\mathit \Xi}_{c}^{+}}
+MASS:$107.8 \pm3.0$ MeV&nbsp; </td>
+LIFE:
+WIDTH:
+{{\mathit \Xi}_{c}^{'0}}
+MASS:$2577.9 \pm2.9$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span> -- <a style="text-decoration:none" href="./DataBlock.action?node=S059D">${{\mathit \Xi}_{c}^{'0}}-{{\mathit \Xi}_{c}^{0}}$ MASS DIFFERENCE</a> </td> <td>$107.0 \pm2.9$ MeV&nbsp; </td>
+LIFE:
+WIDTH:
+{{\mathit \Xi}_{c}^{'0}}-{{\mathit \Xi}_{c}^{0}}
+MASS:$107.0 \pm2.9$ MeV&nbsp; </td>
+LIFE:
+WIDTH:
+{{\mathit \Xi}_{c}^{+}}
+MASS:$2467.8 ^{+0.4}_{-0.6}$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span> -- <a style="text-decoration:none" href="./DataBlock.action?node=S048D">${{\mathit \Xi}_{c}^{0}}-{{\mathit \Xi}_{c}^{+}}$ MASS DIFFERENCE</a> </td> <td>$3.1 ^{+0.4}_{-0.5}$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span> -- <a style="text-decoration:none" href="./DataBlock.action?node=S058D">${{\mathit \Xi}_{c}^{'+}}-{{\mathit \Xi}_{c}^{+}}$ MASS DIFFERENCE</a> </td> <td>$107.8 \pm3.0$ MeV&nbsp; </td>
+LIFE:$(4.42 \pm0.26) \times 10^{-13}$ s&nbsp; <span style="font-size: 12px;">(S = 1.3)</span>
+WIDTH:
+{{\mathit \Xi}_{c}^{0}}
+MASS:$2470.88 ^{+0.34}_{-0.80}$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.1)</span> -- <a style="text-decoration:none" href="./DataBlock.action?node=S048D">${{\mathit \Xi}_{c}^{0}}-{{\mathit \Xi}_{c}^{+}}$ MASS DIFFERENCE</a> </td> <td>$3.1 ^{+0.4}_{-0.5}$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span> -- <a style="text-decoration:none" href="./DataBlock.action?node=S059D">${{\mathit \Xi}_{c}^{'0}}-{{\mathit \Xi}_{c}^{0}}$ MASS DIFFERENCE</a> </td> <td>$107.0 \pm2.9$ MeV&nbsp; </td>
+LIFE:$(1.12 ^{+0.13}_{-0.10}) \times 10^{-13}$ s&nbsp; </td>
+WIDTH:
+{{\mathit \Xi}_{c}^{0}}-{{\mathit \Xi}_{c}^{+}}
+MASS:$3.1 ^{+0.4}_{-0.5}$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+LIFE:
+WIDTH:
+{{\mathit \Xi}_{c}{(2645)}^{+}}
+MASS:$2645.9 ^{+0.5}_{-0.6}$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.1)</span> -- ${{\mathit \Xi}_{c}{(2645)}^{+}}-{{\mathit \Xi}_{c}{(2645)}^{0}}$ MASS DIFFERENCE </th> </tr>
+LIFE:
+WIDTH:$<3.1$ MeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=90.0%<!--</span>-->
+{{\mathit \Xi}_{c}{(2645)}^{+}}-{{\mathit \Xi}_{c}{(2645)}^{0}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \Xi}_{c}{(2645)}^{0}}
+MASS:$2645.9 \pm0.5$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span> -- ${{\mathit \Xi}_{c}{(2645)}^{+}}-{{\mathit \Xi}_{c}{(2645)}^{0}}$ MASS DIFFERENCE </th> </tr>
+LIFE:
+WIDTH:$<5.5$ MeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=90.0%<!--</span>-->
+{{\mathit \Xi}_{c}{(2645)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \Xi}_{c}{(2645)}}-{{\mathit \Xi}_{c}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \Xi}_{c}{(2790)}^{+}}
+MASS:$2789.1 \pm3.2$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+LIFE:
+WIDTH:$<15$ MeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=90.0%<!--</span>-->
+{{\mathit \Xi}_{c}{(2790)}^{0}}
+MASS:$2791.8 \pm3.3$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+LIFE:
+WIDTH:$<12$ MeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=90.0%<!--</span>-->
+{{\mathit \Xi}_{c}{(2790)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \Xi}_{c}{(2790)}}-{{\mathit \Xi}_{c}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \Xi}_{c}{(2815)}^{+}}
+MASS:$2816.6 \pm0.9$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span> -- ${{\mathit \Xi}_{c}{(2815)}^{+}}-{{\mathit \Xi}_{c}{(2815)}^{0}}$ MASS DIFFERENCE </th> </tr>
+LIFE:
+WIDTH:$<3.5$ MeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=90.0%<!--</span>-->
+{{\mathit \Xi}_{c}{(2815)}^{+}}-{{\mathit \Xi}_{c}{(2815)}^{0}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \Xi}_{c}{(2815)}^{0}}
+MASS:$2819.6 \pm1.2$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span> -- ${{\mathit \Xi}_{c}{(2815)}^{+}}-{{\mathit \Xi}_{c}{(2815)}^{0}}$ MASS DIFFERENCE </th> </tr>
+LIFE:
+WIDTH:$<6.5$ MeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=90.0%<!--</span>-->
+{{\mathit \Xi}_{c}{(2815)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \Xi}_{c}{(2815)}}-{{\mathit \Xi}_{c}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \Xi}_{c}{(2930)}}
+MASS:$2931 \pm6$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$36 \pm13$ MeV&nbsp; </td>
+{{\mathit \Xi}_{c}{(2980)}^{+}}
+MASS:$2971.4 \pm3.3$ MeV&nbsp; <span style="font-size: 12px;">(S = 2.1)</span>
+LIFE:
+WIDTH:$26 \pm7$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.5)</span>
+{{\mathit \Xi}_{c}{(2980)}^{0}}
+MASS:$2968.0 \pm2.6$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.2)</span>
+LIFE:
+WIDTH:$20 \pm7$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.3)</span>
+{{\mathit \Xi}_{c}{(2980)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \Xi}_{c}{(3055)}^{+}}
+MASS:$3054.2 \pm1.3$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$17 \pm13$ MeV&nbsp; </td>
+{{\mathit \Xi}_{c}{(3055)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \Xi}_{c}{(3080)}^{+}}
+MASS:$3077.0 \pm0.4$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$5.8 \pm1.0$ MeV&nbsp; </td>
+{{\mathit \Xi}_{c}{(3080)}^{0}}
+MASS:$3079.9 \pm1.4$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.3)</span>
+LIFE:
+WIDTH:$5.6 \pm2.2$ MeV&nbsp; </td>
+{{\mathit \Xi}_{c}{(3080)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \Xi}_{c}{(3123)}^{+}}
+MASS:$3122.9 \pm1.3$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$4 \pm4$ MeV&nbsp; </td>
+{{\mathit \Xi}_{c}{(3123)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \Xi}{(1530)}^{-}}
+MASS:$1535.0 \pm0.6$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+LIFE:
+WIDTH:$9.9 ^{+1.7}_{-1.9}$ MeV&nbsp; </td>
+{{\mathit \Xi}{(1530)}^{0}}
+MASS:$1531.80 \pm0.32$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.3)</span>
+LIFE:
+WIDTH:$9.1 \pm0.5$ MeV&nbsp; </td>
+{{\mathit \Xi}{(1530)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \Xi}{(1620)}}
+MASS:$\approx1620$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Xi}{(1690)}^{-}}
+MASS:&nbsp;</td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Xi}{(1690)}^{0}}
+MASS:&nbsp;</td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Xi}{(1690)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \Xi}{(1820)}}
+MASS:$1823 \pm5$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$24 ^{+15}_{-10}$ MeV&nbsp; </td>
+{{\mathit \Xi}{(1950)}}
+MASS:$1950 \pm15$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$60 \pm20$ MeV&nbsp; </td>
+{{\mathit \Xi}{(2030)}}
+MASS:$2025 \pm5$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$20 ^{+15}_{-5}$ MeV&nbsp; </td>
+{{\mathit \Xi}{(2120)}}
+MASS:$\approx2120$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Xi}{(2250)}}
+MASS:$\approx2250$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Xi}{(2370)}}
+MASS:$\approx2370$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \Xi}{(2500)}}
+MASS:$\approx2500$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \chi}_{b\mathrm 0}{(1P)}}
+MASS:$9859.44 \pm0.42 \pm0.31$ MeV&nbsp; </td>
+LIFE:
+WIDTH:
+{{\mathit \chi}_{b\mathrm 0}{(2P)}}
+MASS:$10232.5 \pm0.4 \pm0.5$ MeV&nbsp; </td>
+LIFE:
+WIDTH:
+{{\mathit \chi}_{b\mathrm 1}{(1P)}}
+MASS:$9892.78 \pm0.26 \pm0.31$ MeV&nbsp; </td>
+LIFE:
+WIDTH:
+{{\mathit \chi}_{b\mathrm 1}{(2P)}}
+MASS:$10255.46 \pm0.22 \pm0.50$ MeV&nbsp; </td>
+LIFE:
+WIDTH:
+{{\mathit \chi}_{b\mathrm 2}{(1P)}}
+MASS:$9912.21 \pm0.26 \pm0.31$ MeV&nbsp; </td>
+LIFE:
+WIDTH:
+{{\mathit \chi}_{b\mathrm 2}{(2P)}}
+MASS:$10268.65 \pm0.22 \pm0.50$ MeV&nbsp; </td>
+LIFE:
+WIDTH:
+{{\mathit \chi}_{b}{(3P)}}
+MASS:$10534 \pm9$ MeV&nbsp; </td>
+LIFE:
+WIDTH:
+{{\mathit \chi}_{c\mathrm 0}{(1P)}}
+MASS:$3414.75 \pm0.31$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+LIFE:
+WIDTH:$10.5 \pm0.6$ MeV&nbsp; </td>
+{{\mathit \chi}_{c\mathrm 0}{(2P)}}
+MASS:$3918.4 \pm1.9$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$20 \pm5$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.1)</span>
+{{\mathit \chi}_{c\mathrm 1}{(1P)}}
+MASS:$3510.66 \pm0.07$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.5)</span>
+LIFE:
+WIDTH:$0.84 \pm0.04$ MeV&nbsp; </td>
+{{\mathit \chi}_{c\mathrm 2}{(1P)}}
+MASS:$3556.20 \pm0.09$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$1.93 \pm0.11$ MeV&nbsp; </td>
+{{\mathit \chi}_{c\mathrm 2}{(2P)}}
+MASS:$3927.2 \pm2.6$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$24 \pm6$ MeV&nbsp; </td>
+{{\mathit \ell}_{\mathrm 8}}
+MASS:$>86$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=S054CL">MASS LIMITS for Color Octet Charged Leptons (${{\mathit \ell}_{\mathrm 8}}$)</a> </td> <td>$>86$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>-->
+LIFE:
+WIDTH:
+{{\mathit \eta}^{'}{(958)}}
+MASS:$957.78 \pm0.06$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$0.198 \pm0.009$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+{{\mathit \eta}_{\mathrm 2}{(1645)}}
+MASS:$1617 \pm5$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$181 \pm11$ MeV&nbsp; </td>
+{{\mathit \eta}_{\mathrm 2}{(1870)}}
+MASS:$1842 \pm8$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$225 \pm14$ MeV&nbsp; </td>
+{{\mathit \eta}_{b}{(1S)}}
+MASS:$9398.0 \pm3.2$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.8)</span>
+LIFE:
+WIDTH:$11 ^{+6}_{-4}$ MeV&nbsp; </td>
+{{\mathit \eta}_{b}{(2S)}}
+MASS:$9999 \pm4$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$<24$ MeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=90.0%<!--</span>-->
+{{\mathit \eta}_{c}{(1S)}}
+MASS:$2983.6 \pm0.7$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.3)</span>
+LIFE:
+WIDTH:$32.2 \pm0.9$ MeV&nbsp; </td>
+{{\mathit \eta}_{c}{(2S)}}
+MASS:$3639.4 \pm1.3$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.2)</span>
+LIFE:
+WIDTH:$11.3 ^{+3.2}_{-2.9}$ MeV&nbsp; </td>
+{{\mathit \eta}{(1295)}}
+MASS:$1294 \pm4$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.6)</span>
+LIFE:
+WIDTH:$55 \pm5$ MeV&nbsp; </td>
+{{\mathit \eta}{(1405)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \eta}{(1475)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \eta}{(1760)}}
+MASS:$1751 \pm15$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$240 \pm30$ MeV&nbsp; </td>
+{{\mathit \eta}{(2225)}}
+MASS:$2226 \pm16$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$185 ^{+70}_{-40}$ MeV&nbsp; </td>
+{{\mathit \eta}}
+MASS:$547.862 \pm0.018$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$1.31 \pm0.05$ keV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+{{\mathit \gamma}}
+MASS:$<1E-18$ eV&nbsp; </td> <td>$<1E-18$ eV&nbsp; </td>
+LIFE:
+WIDTH:
+{{\mathit \mu}^{*}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \mu}}
+MASS:$105.6583715 \pm0.0000035$ MeV&nbsp; </td> <td>$105.6583715 \pm0.0000035$ MeV&nbsp; </td>
+LIFE:$(2.1969811 \pm0.0000022) \times 10^{-6}$ s&nbsp; </td> <td>$(2.1969811 \pm0.0000022) \times 10^{-6}$ s&nbsp; </td>
+WIDTH:
+{{\mathit \nu}^{*}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \nu}_{\mathrm 8}}
+MASS:$>110$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=90.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=S054CN">MASS LIMITS for Color Octet Neutrinos (${{\mathit \nu}_{\mathrm 8}}$)</a> </td> <td>$>110$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=90.0%<!--</span>-->
+LIFE:
+WIDTH:
+{{\mathit \nu}}
+MASS:&nbsp;</td> -- <a style="text-decoration:none" href="./DataBlock.action?node=S066MNM">${{\mathit \nu}}$ MASS (muon based)</a> </td> <td>$<0.19$ MeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=90.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=S066MNT">${{\mathit \nu}}$ MASS (tau based)</a> </td> <td>$<18.2$ MeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=S066MSW">Limits on MASSES of Light Stable Right-Handed ${{\mathit \nu}}$ (with necessarily suppressed interaction strengths)</a> </td> <td>&nbsp;</td> -- <a style="text-decoration:none" href="./DataBlock.action?node=S066MSH">Limits on MASSES of Heavy Stable Right-Handed ${{\mathit \nu}}$ (with necessarily suppressed interaction strengths)</a> </td> <td>&nbsp;</td> -- <a style="text-decoration:none" href="./DataBlock.action?node=S066TMR">${{\mathit \nu}}$ (MEAN LIFE) / MASS</a> </td> <td>$>300$ s/eV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=90.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=S077L0">Astrophysical Limits on Neutrino MASS for ${\mathit m}_{{{\mathit \nu}}}$ $>$ 1 GeV</a> </td> <td>&nbsp;</td> -- ${{\mathit B}}$ $\rightarrow$ ${{\mathit X}_{c}}{{\mathit \ell}}{{\mathit \nu}}$ HADRONIC MASS MOMENTS </a> </th> </tr> <tbody id="section_S049230"> -- <a style="text-decoration:none" href="./DataBlock.action?node=S066MNE">${{\mathit \nu}}$ MASS (electron based)</a> </td> <td>&nbsp;</td> -- <a style="text-decoration:none" href="./DataBlock.action?node=S066MNM">${{\mathit \nu}}$ MASS (muon based)</a> </td> <td>$<0.19$ MeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=90.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=S066MNT">${{\mathit \nu}}$ MASS (tau based)</a> </td> <td>$<18.2$ MeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=S066MSW">Limits on MASSES of Light Stable Right-Handed ${{\mathit \nu}}$ (with necessarily suppressed interaction strengths)</a> </td> <td>&nbsp;</td> -- <a style="text-decoration:none" href="./DataBlock.action?node=S066MSH">Limits on MASSES of Heavy Stable Right-Handed ${{\mathit \nu}}$ (with necessarily suppressed interaction strengths)</a> </td> <td>&nbsp;</td> -- <a style="text-decoration:none" href="./DataBlock.action?node=S066TMR">${{\mathit \nu}}$ (MEAN LIFE) / MASS</a> </td> <td>$>300$ s/eV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=90.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=S077L0">Astrophysical Limits on Neutrino MASS for ${\mathit m}_{{{\mathit \nu}}}$ $>$ 1 GeV</a> </td> <td>&nbsp;</td>
+LIFE:$>300$ s/eV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=90.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=S066TMR">${{\mathit \nu}}$ (MEAN LIFE) / MASS</a> </td> <td>$>300$ s/eV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=90.0%<!--</span>-->
+WIDTH:
+{{\mathit \omega}_{\mathrm 3}{(1670)}}
+MASS:$1667 \pm4$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$168 \pm10$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+{{\mathit \omega}{(1420)}}
+MASS:$(1400 - 1450)$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$(180 - 250)$ MeV&nbsp; </td>
+{{\mathit \omega}{(1650)}}
+MASS:$1670 \pm30$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$315 \pm35$ MeV&nbsp; </td>
+{{\mathit \omega}{(782)}}
+MASS:$782.65 \pm0.12$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.9)</span>
+LIFE:
+WIDTH:$8.49 \pm0.08$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+{{\mathit \phi}_{\mathrm 3}{(1850)}}
+MASS:$1854 \pm7$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$87 ^{+28}_{-23}$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.2)</span>
+{{\mathit \phi}{(1020)}}
+MASS:$1019.461 \pm0.019$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.1)</span>
+LIFE:
+WIDTH:$4.266 \pm0.031$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.2)</span>
+{{\mathit \phi}{(1680)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \phi}{(2170)}}
+MASS:$2175 \pm15$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.6)</span>
+LIFE:
+WIDTH:$61 \pm18$ MeV&nbsp; </td>
+{{\mathit \pi}^{0}}
+MASS:$134.9766 \pm0.0006$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.1)</span>
+LIFE:$(8.52 \pm0.18) \times 10^{-17}$ s&nbsp; <span style="font-size: 12px;">(S = 1.2)</span>
+WIDTH:
+{{\mathit \pi}^{\pm}}
+MASS:$139.57018 \pm0.00035$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.2)</span>
+LIFE:$(2.6033 \pm0.0005) \times 10^{-8}$ s&nbsp; <span style="font-size: 12px;">(S = 1.2)</span>
+WIDTH:
+{{\mathit \pi}_{\mathrm 1}{(1400)}}
+MASS:$1354 \pm25$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.8)</span>
+LIFE:
+WIDTH:$330 \pm35$ MeV&nbsp; </td>
+{{\mathit \pi}_{\mathrm 1}{(1600)}}
+MASS:$1662 ^{+8}_{-9}$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+LIFE:
+WIDTH:$241 \pm40$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.4)</span>
+{{\mathit \pi}_{\mathrm 2}{(1670)}}
+MASS:$1672.2 \pm3.0$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.4)</span>
+LIFE:
+WIDTH:$260 \pm9$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.2)</span>
+{{\mathit \pi}_{\mathrm 2}{(2100)}}
+MASS:$2090 \pm29$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$625 \pm50$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.2)</span>
+{{\mathit \pi}{(1800)}}
+MASS:$1812 \pm12$ MeV&nbsp; <span style="font-size: 12px;">(S = 2.3)</span>
+LIFE:
+WIDTH:$208 \pm12$ MeV&nbsp; </td>
+{{\mathit \pi}{(1880)}}
+MASS:$1895 \pm16$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$235 \pm34$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+{{\mathit \pi}}
+MASS:$1300 \pm100$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$200 TO 600 $ MeV&nbsp; </td>
+{{\mathit \psi}{(2S)}}
+MASS:$3686.109 ^{+0.012}_{-0.014}$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$299 \pm8$ keV&nbsp; </td>
+{{\mathit \psi}{(3770)}}
+MASS:$3773.15 \pm0.33$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+LIFE:
+WIDTH:$27.2 \pm1.0$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+{{\mathit \psi}{(4040)}}
+MASS:$4039 \pm1$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$80 \pm10$ MeV&nbsp; </td>
+{{\mathit \psi}{(4160)}}
+MASS:$4191 \pm5$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$70 \pm10$ MeV&nbsp; </td>
+{{\mathit \psi}{(4415)}}
+MASS:$4421 \pm4$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$62 \pm20$ MeV&nbsp; </td>
+{{\mathit \rho}_{\mathrm 3}{(1690)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \rho}_{\mathrm 3}{(1990)}}
+MASS:&nbsp;</td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \rho}_{\mathrm 3}{(2250)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \rho}_{\mathrm 5}{(2350)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \rho}{(1450)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \rho}{(1570)}}
+MASS:$1570 \pm70$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$144 \pm90$ MeV&nbsp; </td>
+{{\mathit \rho}{(1700)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \rho}{(1900)}}
+MASS:&nbsp;</td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit \rho}{(2150)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \rho}{(770)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \tau}^{*}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit \tau}}
+MASS:$1776.82 \pm0.16$ MeV&nbsp; </td> <td>$1776.82 \pm0.16$ MeV&nbsp; </td>
+LIFE:$(2.903 \pm0.005) \times 10^{-13}$ s&nbsp; </td> <td>$(2.903 \pm0.005) \times 10^{-13}$ s&nbsp; </td>
+WIDTH:
+{{\mathit a}_{\mathrm 0}{(1450)}}
+MASS:$1474 \pm19$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$265 \pm13$ MeV&nbsp; </td>
+{{\mathit a}_{\mathrm 0}{(980)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit a}_{\mathrm 1}{(1260)}}
+MASS:$1230 \pm40$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$250 to 600 $ MeV&nbsp; </td>
+{{\mathit a}_{\mathrm 1}{(1640)}}
+MASS:$1647 \pm22$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.4)</span>
+LIFE:
+WIDTH:$254 \pm27$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.1)</span>
+{{\mathit a}_{\mathrm 2}{(1320)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit a}_{\mathrm 2}{(1700)}}
+MASS:$1732 \pm16$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.9)</span>
+LIFE:
+WIDTH:$194 \pm40$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.6)</span>
+{{\mathit a}_{\mathrm 4}{(2040)}}
+MASS:$1996 ^{+10}_{-9}$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.1)</span>
+LIFE:
+WIDTH:$255 ^{+28}_{-24}$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.3)</span>
+{{\mathit a}_{\mathrm 6}{(2450)}}
+MASS:$2450 \pm130$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$400 \pm250$ MeV&nbsp; </td>
+{{\mathit b}_{\mathrm 1}{(1235)}}
+MASS:$1229.5 \pm3.2$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.6)</span>
+LIFE:
+WIDTH:$142 \pm9$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.2)</span>
+{{\mathit e}^{*}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit e}^{+}}{{\mathit e}^{-}}
+MASS:$>46.0$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=S056HEE">MASS LIMITS for a Heavy Neutral Boson Coupling to ${{\mathit e}^{+}}{{\mathit e}^{-}}$</a> </td> <td>&nbsp;</td> -- <a style="text-decoration:none" href="./DataBlock.action?node=Q008BPE">MASS LIMITS for ${{\mathit b}^{'}}$ (4${}^{\mathit th}$ Generation) Quark or Hadron in ${{\mathit e}^{+}}{{\mathit e}^{-}}$ Collisions</a> </td> <td>$>46.0$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=S056HEE">MASS LIMITS for a Heavy Neutral Boson Coupling to ${{\mathit e}^{+}}{{\mathit e}^{-}}$</a> </td> <td>&nbsp;</td>
+LIFE:
+WIDTH:
+{{\mathit e}}
+MASS:$0.510998928 \pm0.000000011$ MeV&nbsp; </td> <td>$0.510998928 \pm0.000000011$ MeV&nbsp; </td>
+LIFE:
+WIDTH:
+{{\mathit f}_{J}{(2220)}}
+MASS:$2231.1 \pm3.5$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$23 ^{+8}_{-7}$ MeV&nbsp; </td>
+{{\mathit f}_{\mathrm 0}{(1370)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit f}_{\mathrm 0}{(1500)}}
+MASS:$1505 \pm6$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.3)</span>
+LIFE:
+WIDTH:$109 \pm7$ MeV&nbsp; </td>
+{{\mathit f}_{\mathrm 0}{(1710)}}
+MASS:$1722 ^{+6}_{-5}$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.6)</span>
+LIFE:
+WIDTH:$135 \pm7$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.1)</span>
+{{\mathit f}_{\mathrm 0}{(2020)}}
+MASS:$1992 \pm16$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$442 \pm60$ MeV&nbsp; </td>
+{{\mathit f}_{\mathrm 0}{(2100)}}
+MASS:$2103 \pm8$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$209 \pm19$ MeV&nbsp; </td>
+{{\mathit f}_{\mathrm 0}{(2200)}}
+MASS:$2189 \pm13$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$238 \pm50$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.2)</span>
+{{\mathit f}_{\mathrm 0}{(2330)}}
+MASS:&nbsp;</td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit f}_{\mathrm 0}{(500)}}
+MASS:$(400 - 550)$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$(400 - 700)$ MeV&nbsp; </td>
+{{\mathit f}_{\mathrm 0}{(980)}}
+MASS:$990 \pm20$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$40 to 100 $ MeV&nbsp; </td>
+{{\mathit f}_{\mathrm 1}{(1285)}}
+MASS:$1281.9 \pm0.5$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.8)</span>
+LIFE:
+WIDTH:$24.2 \pm1.1$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.3)</span>
+{{\mathit f}_{\mathrm 1}{(1420)}}
+MASS:$1426.4 \pm0.9$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.1)</span>
+LIFE:
+WIDTH:$54.9 \pm2.6$ MeV&nbsp; </td>
+{{\mathit f}_{\mathrm 1}{(1510)}}
+MASS:$1518 \pm5$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.7)</span>
+LIFE:
+WIDTH:$73 \pm25$ MeV&nbsp; <span style="font-size: 12px;">(S = 2.5)</span>
+{{\mathit f}_{\mathrm 2}^{'}{(1525)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit f}_{\mathrm 2}{(1270)}}
+MASS:$1275.1 \pm1.2$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.1)</span>
+LIFE:
+WIDTH:$185.1 ^{+2.9}_{-2.4}$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.5)</span>
+{{\mathit f}_{\mathrm 2}{(1430)}}
+MASS:$\approx1430$ MeV&nbsp; </td>
+LIFE:
+WIDTH:&nbsp;</td>
+{{\mathit f}_{\mathrm 2}{(1565)}}
+MASS:$1562 \pm13$ MeV&nbsp; <span style="font-size: 12px;">(S = 2.1)</span>
+LIFE:
+WIDTH:$134 \pm8$ MeV&nbsp; </td>
+{{\mathit f}_{\mathrm 2}{(1640)}}
+MASS:$1639 \pm6$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.2)</span>
+LIFE:
+WIDTH:$99 ^{+60}_{-40}$ MeV&nbsp; <span style="font-size: 12px;">(S = 2.9)</span>
+{{\mathit f}_{\mathrm 2}{(1810)}}
+MASS:$1815 \pm12$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.4)</span>
+LIFE:
+WIDTH:$197 \pm22$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.5)</span>
+{{\mathit f}_{\mathrm 2}{(1910)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit f}_{\mathrm 2}{(1950)}}
+MASS:$1944 \pm12$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.5)</span>
+LIFE:
+WIDTH:$472 \pm18$ MeV&nbsp; </td>
+{{\mathit f}_{\mathrm 2}{(2010)}}
+MASS:$2011 ^{+60}_{-80}$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$202 \pm60$ MeV&nbsp; </td>
+{{\mathit f}_{\mathrm 2}{(2150)}}
+MASS:$2157 \pm12$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$152 \pm30$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.4)</span>
+{{\mathit f}_{\mathrm 2}{(2300)}}
+MASS:$2297 \pm28$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$149 \pm40$ MeV&nbsp; </td>
+{{\mathit f}_{\mathrm 2}{(2340)}}
+MASS:$2339 \pm60$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$319 ^{+80}_{-70}$ MeV&nbsp; </td>
+{{\mathit f}_{\mathrm 4}{(2050)}}
+MASS:$2018 \pm11$ MeV&nbsp; <span style="font-size: 12px;">(S = 2.1)</span>
+LIFE:
+WIDTH:$237 \pm18$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.9)</span>
+{{\mathit f}_{\mathrm 4}{(2300)}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit f}_{\mathrm 6}{(2510)}}
+MASS:$2469 \pm29$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.5)</span>
+LIFE:
+WIDTH:$283 \pm40$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.1)</span>
+{{\mathit g}_{A}}
+MASS:$>3.360E3$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=S056AXG">MASS LIMITS for ${{\mathit g}_{A}}$ (axigluon) and Other Color-Octet Gauge Bosons</a> </td> <td>$>3.360E3$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>-->
+LIFE:
+WIDTH:
+{{\mathit h}_{\mathrm 1}{(1170)}}
+MASS:$1170 \pm20$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$360 \pm40$ MeV&nbsp; </td>
+{{\mathit h}_{\mathrm 1}{(1380)}}
+MASS:$1386 \pm19$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$91 \pm30$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.1)</span>
+{{\mathit h}_{\mathrm 1}{(1595)}}
+MASS:$1594 ^{+18}_{-60}$ MeV&nbsp; </td>
+LIFE:
+WIDTH:$384 ^{+90}_{-120}$ MeV&nbsp; </td>
+{{\mathit h}_{b}{(1P)}}
+MASS:$9899.3 \pm1.0$ MeV&nbsp; </td>
+LIFE:
+WIDTH:
+{{\mathit h}_{b}{(2P)}}
+MASS:$10259.8 \pm1.2$ MeV&nbsp; </td>
+LIFE:
+WIDTH:
+{{\mathit h}_{c}{(1P)}}
+MASS:$3525.38 \pm0.11$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+LIFE:
+WIDTH:$0.7 \pm0.4$ MeV&nbsp; </td>
+{{\mathit n}}
+MASS:$939.565379 \pm0.000021$ MeV&nbsp; </td>
+LIFE:$880.3 \pm1.1$ s&nbsp; <span style="font-size: 12px;">(S = 1.9)</span>
+WIDTH:
+{{\mathit p}}
+MASS:$> 675$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=Q009TPP">${{\mathit t}^{'}}$-quark/hadron mass limits in ${{\mathit p}}$ ${{\overline{\mathit p}}}$ and ${{\mathit p}}$ ${{\mathit p}}$ collisions MASS LIMITS for ${{\mathit t}^{'}}$ (4${}^{\mathit th}$ Generation) Quark or Hadron in ${{\mathit p}}{{\overline{\mathit p}}}$ and ${{\mathit p}}{{\mathit p}}$ Collisions</a> </td> <td>$> 782$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=Q008BPP">${{\mathit b}^{'}}$-quark/hadron mass limits in ${{\mathit p}}$ ${{\overline{\mathit p}}}$ and ${{\mathit p}}$ ${{\mathit p}}$ collisions MASS LIMITS for ${{\mathit b}^{'}}$ (4${}^{\mathit th}$ Generation) Quark or Hadron in ${{\mathit p}}$ ${{\overline{\mathit p}}}$ and ${{\mathit p}}$ ${{\mathit p}}$ Collisions</a> </td> <td>$> 675$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=Q009TPP">${{\mathit t}^{'}}$-quark/hadron mass limits in ${{\mathit p}}$ ${{\overline{\mathit p}}}$ and ${{\mathit p}}$ ${{\mathit p}}$ collisions MASS LIMITS for ${{\mathit t}^{'}}$ (4${}^{\mathit th}$ Generation) Quark or Hadron in ${{\mathit p}}{{\overline{\mathit p}}}$ and ${{\mathit p}}{{\mathit p}}$ Collisions</a> </td> <td>$> 782$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=S016M">${{\mathit p}}$ MASS (MeV)</a> </td> <td>$938.272046 \pm0.000021$ MeV&nbsp; </td>
+LIFE:
+WIDTH:
+{{\mathit p}}{{\mathit p}}
+MASS:$> 782$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=Q009TPP">${{\mathit t}^{'}}$-quark/hadron mass limits in ${{\mathit p}}$ ${{\overline{\mathit p}}}$ and ${{\mathit p}}$ ${{\mathit p}}$ collisions MASS LIMITS for ${{\mathit t}^{'}}$ (4${}^{\mathit th}$ Generation) Quark or Hadron in ${{\mathit p}}{{\overline{\mathit p}}}$ and ${{\mathit p}}{{\mathit p}}$ Collisions</a> </td> <td>$> 782$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>-->
+LIFE:
+WIDTH:
+{{\mathit q}^{*}}
+MASS:
+LIFE:
+WIDTH:
+{{\mathit q}_{\mathrm 8}}
+MASS:$>84$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=S054CQ">MASS LIMITS for Color Sextet Quarks (${{\mathit q}_{\mathrm 6}}$) MASS LIMITS for Color Octet Quarks (${{\mathit q}_{\mathrm 8}}$)</a> </td> <td>$>84$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>-->
+LIFE:
+WIDTH:
+{{\mathit t}}
+MASS:
+LIFE:
+WIDTH:
+{{\overline{\mathit \Omega}}^{+}}
+MASS:$1672.45 \pm0.29$ MeV&nbsp; </td>
+LIFE:$(8.21 \pm0.11) \times 10^{-11}$ s&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+WIDTH:
+{{\overline{\mathit \Xi}}^{+}}
+MASS:$1321.71 \pm0.07$ MeV&nbsp; <span style="font-size: 12px;">(S = 1.0)</span>
+LIFE:$(1.70 \pm0.14) \times 10^{-10}$ s&nbsp; </td>
+WIDTH:
+{{\overline{\mathit \nu}}}
+MASS:$<2$ eV&nbsp; </td> <td>$-0.6 \pm1.9$ eV${}^{2}$&nbsp; </td> <td>$<2$ eV&nbsp; </td> <td>$-0.6 \pm1.9$ eV${}^{2}$&nbsp; </td>
+LIFE:
+WIDTH:
+{{\overline{\mathit n}}}
+MASS:$939.49 \pm0.05$ MeV&nbsp; </td>
+LIFE:
+WIDTH:
+{{\widetilde{\mathit G}}}
+MASS:&nbsp;</td> -- <a style="text-decoration:none" href="./DataBlock.action?node=S046GTN">LIGHT ${{\widetilde{\mathit G}}}$ (Gravitino) MASS LIMITS FROM COLLIDER EXPERIMENTS</a> </td> <td>&nbsp;</td>
+LIFE:
+WIDTH:
+{{\widetilde{\mathit \chi}}^{\pm}}
+MASS:&nbsp;</td> -- <a style="text-decoration:none" href="./DataBlock.action?node=S046SWN">Long-lived ${{\widetilde{\mathit \chi}}^{\pm}}$ (Chargino) MASS LIMITS</a> </td> <td>&nbsp;</td>
+LIFE:
+WIDTH:
+{{\widetilde{\mathit \chi}}_{\mathrm 1}^{0}}
+MASS:&nbsp;</td> -- <a style="text-decoration:none" href="./DataBlock.action?node=S046UPH">Unstable ${{\widetilde{\mathit \chi}}_{\mathrm 1}^{0}}$ (Lightest Neutralino) MASS LIMIT</a> </td> <td>&nbsp;</td> -- <a style="text-decoration:none" href="./DataBlock.action?node=S046PHO">${{\widetilde{\mathit \chi}}_{\mathrm 1}^{0}}$ (Lightest Neutralino) MASS LIMIT</a> </td> <td>&nbsp;</td> -- <a style="text-decoration:none" href="./DataBlock.action?node=S046UPH">Unstable ${{\widetilde{\mathit \chi}}_{\mathrm 1}^{0}}$ (Lightest Neutralino) MASS LIMIT</a> </td> <td>&nbsp;</td>
+LIFE:
+WIDTH:
+{{\widetilde{\mathit \chi}}_{\mathrm 2}^{\pm}}
+MASS:$>94$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=S046WNO">${{\widetilde{\mathit \chi}}_{\mathrm 1}^{\pm}}$, ${{\widetilde{\mathit \chi}}_{\mathrm 2}^{\pm}}$ (Charginos) MASS LIMITS</a> </td> <td>$>94$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>-->
+LIFE:
+WIDTH:
+{{\widetilde{\mathit \chi}}_{\mathrm 4}^{0}}
+MASS:$>116.0$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=S046ZNO">${{\widetilde{\mathit \chi}}_{\mathrm 2}^{0}}$, ${{\widetilde{\mathit \chi}}_{\mathrm 3}^{0}}$, ${{\widetilde{\mathit \chi}}_{\mathrm 4}^{0}}$ (Neutralinos) MASS LIMITS</a> </td> <td>$>116.0$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>-->
+LIFE:
+WIDTH:
+{{\widetilde{\mathit \ell}}}
+MASS:&nbsp;</td> -- <a style="text-decoration:none" href="./DataBlock.action?node=S046SLP">Long-lived ${{\widetilde{\mathit \ell}}}$ (Slepton) MASS LIMIT</a> </td> <td>&nbsp;</td>
+LIFE:
+WIDTH:
+{{\widetilde{\mathit \mu}}}
+MASS:$>94$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=S046SMU">${{\widetilde{\mathit \mu}}}$ (Smuon) MASS LIMIT</a> </td> <td>$>94$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>-->
+LIFE:
+WIDTH:
+{{\widetilde{\mathit \nu}}}
+MASS:$>94$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=S046SNU">${{\widetilde{\mathit \nu}}}$ (Sneutrino) MASS LIMIT</a> </td> <td>$>94$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>-->
+LIFE:
+WIDTH:
+{{\widetilde{\mathit \tau}}}
+MASS:$>81.9$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=S046STA">${{\widetilde{\mathit \tau}}}$ (Stau) MASS LIMIT</a> </td> <td>$>81.9$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>-->
+LIFE:
+WIDTH:
+{{\widetilde{\mathit b}}}
+MASS:$>89$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=S046SBT">${{\widetilde{\mathit b}}}$ (Sbottom) MASS LIMIT</a> </td> <td>$>89$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>-->
+LIFE:
+WIDTH:
+{{\widetilde{\mathit e}}}
+MASS:$>107$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=S046SE">${{\widetilde{\mathit e}}}$ (Selectron) MASS LIMIT</a> </td> <td>$>107$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>-->
+LIFE:
+WIDTH:
+{{\widetilde{\mathit g}}}
+MASS:$> 800$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=S046LGN">Long-lived/light ${{\widetilde{\mathit g}}}$ (Gluino) MASS LIMIT</a> </td> <td>&nbsp;</td> -- <a style="text-decoration:none" href="./DataBlock.action?node=S046GNO">Heavy ${{\widetilde{\mathit g}}}$ (Gluino) MASS LIMIT</a> </td> <td>$> 800$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=S046LGN">Long-lived/light ${{\widetilde{\mathit g}}}$ (Gluino) MASS LIMIT</a> </td> <td>&nbsp;</td>
+LIFE:
+WIDTH:
+{{\widetilde{\mathit q}}}
+MASS:$> 1110$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=S046SSQ">Long-lived ${{\widetilde{\mathit q}}}$ (Squark) MASS LIMIT</a> </td> <td>&nbsp;</td> -- <a style="text-decoration:none" href="./DataBlock.action?node=S046SQK">${{\widetilde{\mathit q}}}$ (Squark) MASS LIMIT</a> </td> <td>$> 1110$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=S046SSQ">Long-lived ${{\widetilde{\mathit q}}}$ (Squark) MASS LIMIT</a> </td> <td>&nbsp;</td>
+LIFE:
+WIDTH:
+{{\widetilde{\mathit t}}}
+MASS:$>95.7$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>--> -- <a style="text-decoration:none" href="./DataBlock.action?node=S046STP">${{\widetilde{\mathit t}}}$ (Stop) MASS LIMIT</a> </td> <td>$>95.7$ GeV&nbsp; <!--<span style="font-size: 12px;">-->&nbsp;CL=95.0%<!--</span>-->
+LIFE:
+WIDTH:
+{{\mathit K}^{*}{(892)}_{hadron}^{\pm}}
+MASS: $891.66 \pm 0.26$ MeV&
+LIFE:
+WIDTH: $50.8 \pm 0.9$ MeV
+{{\mathit K}^{*}{(892)}_{tau}^{\pm}}
+MASS: $895.5 \pm 0.8$ MeV&
+LIFE:
+WIDTH: $46.2 \pm 1.3$ MeV
+{{\mathit K}^{*}{(892)}^{0}}
+MASS: $891.66 \pm 0.26$ MeV&
+LIFE:
+WIDTH: $47.4 \pm 0.6$ MeV&
+{{\mathit K}_{\mathrm 2}^{*}{(1430)}^{\pm}}
+MASS: $1425.6 \pm 1.5$ MeV&
+LIFE:
+WIDTH: $98.5 \pm 2.7$ MeV&
+{{\mathit K}_{\mathrm 2}^{*}{(1430)}^{0}}
+MASS: $1432.4 \pm 1.3$ MeV&
+LIFE:
+WIDTH: $109 \pm 5$ MeV&
+#{{\mathit \rho}{(770)}^{\pm}}
+#MASS:
+#LIFE:
+#WIDTH:
+#{{\mathit \rho}{(770)}^{0}}
+#MASS:
+#LIFE:
+#WIDTH:
