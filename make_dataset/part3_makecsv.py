@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import re
 import numpy as np
 import pandas
@@ -14,8 +15,8 @@ class Particle(object):
             'masslimlow' : 0, 'masslimup' : 0,
         }
         self.tau = {
-            'tau' : 0, 'tauerr' : 0,
-            'tauerrlow' : 0, 'tauerrup' : 0,
+            'life' : 0, 'lifeerr' : 0,
+            'lifeerrlow' : 0, 'lifeerrup' : 0,
         }
         self.width = {
             'width' : 0, 'widtherr' : 0,
@@ -89,26 +90,26 @@ class Particle(object):
             regexp = r'((?P<t>[0-9\.]+).*pm(?P<e>[0-9\.]+)).*times10\^{(?P<exp>.*)}'
             search = re.search(regexp, tau).groupdict()
             search = {key: float(item) for key, item in search.iteritems()}
-            self.tau['tau'] = search['t']*(10**search['exp'])
-            self.tau['tauerr'] = search['e']*(10**search['exp'])
-            self.tau['tauerrlow'] = self.tau['tauerr']
-            self.tau['tauerrup'] = self.tau['tauerr']
+            self.tau['life'] = search['t']*(10**search['exp'])
+            self.tau['lifeerr'] = search['e']*(10**search['exp'])
+            self.tau['lifeerrlow'] = self.tau['lifeerr']
+            self.tau['lifeerrup'] = self.tau['lifeerr']
         elif tau.count('pm'):
             regexp = r'((?P<t>[0-9\.]+).*pm(?P<e>[0-9\.]+))'
             search = re.search(regexp, tau).groupdict()
             search = {key: float(item) for key, item in search.iteritems()}
-            self.tau['tau'] = search['t']
-            self.tau['tauerr'] = search['e']
-            self.tau['tauerrlow'] = self.tau['tauerr']
-            self.tau['tauerrup'] = self.tau['tauerr']
+            self.tau['life'] = search['t']
+            self.tau['lifeerr'] = search['e']
+            self.tau['lifeerrlow'] = self.tau['lifeerr']
+            self.tau['lifeerrup'] = self.tau['lifeerr']
         else:
             regexp = '(?P<t>[0-9\.]*)\^{\+(?P<up>.*)}_{-(?P<lo>.*)}.*times10\^{(?P<exp>.*)}'
             search = re.search(regexp, tau).groupdict()
             search = {key: float(item) for key, item in search.iteritems()}
-            self.tau['tau'] = search['t']*(10**search['exp'])
-            self.tau['tauerrlow'] = search['lo']*(10**search['exp'])
-            self.tau['tauerrup'] = search['up']*(10**search['exp'])
-            self.tau['tauerr'] = np.sqrt(self.tau['tauerrlow']**2 + self.tau['tauerrup']**2)
+            self.tau['life'] = search['t']*(10**search['exp'])
+            self.tau['lifeerrlow'] = search['lo']*(10**search['exp'])
+            self.tau['lifeerrup'] = search['up']*(10**search['exp'])
+            self.tau['lifeerr'] = np.sqrt(self.tau['lifeerrlow']**2 + self.tau['lifeerrup']**2)
         return
 
     def getwidth(self, line):
