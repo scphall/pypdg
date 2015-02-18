@@ -26,7 +26,7 @@ def _fuzzy_match(s1, s2):
 
 
 ################################################################################
-def guess_list(self, n):
+def _guess_list(self, n):
     '''Guess what particle is interesting and return the relevant object'''
     try:
         from fuzzywuzzy import fuzz
@@ -45,9 +45,9 @@ def guess_list(self, n):
 
 
 ################################################################################
-def guess(self, n):
+def _guess(self, n):
     '''Guess what particle is interesting and return the relevant object'''
-    tpls = guess_list(self, n)
+    tpls = _guess_list(self, n)
     if len(tpls) > 10:
         if tpls[0][1]<60:
             raise IndexError(
@@ -86,7 +86,7 @@ class DetailErr(pandas.Series):
         return
 
     def guess(self, n):
-        return guess(self, n)
+        return _guess(self, n)
 
 
 ################################################################################
@@ -117,11 +117,11 @@ class Particles(pandas.DataFrame):
         return
 
     def guess(self, n):
-        return guess(self, n)
+        return _guess(self, n)
 
     def find(self, name, n=5):
         '''Fine name in database, best n matches in order'''
-        return [x[0] for x in guess_list(self, name)[:n]]
+        return [x[0] for x in _guess_list(self, name)[:n]]
 
 
 ################################################################################
