@@ -25,6 +25,7 @@ The `particles` class has all errors and asymmetries, but the other classes cont
 
 If you are not sure of a particle name, you can use the `find()` method, which will output the best matches.
 
+**UNITS are *MeV* and *s***
 
 ##Creating the database
 There is a csv file in the module, which is all you need; but in case you want to recreate go into *make_dataset*, run the scripts:
