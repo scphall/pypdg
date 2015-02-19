@@ -10,17 +10,17 @@ class Particle(object):
             raise ValueError('This is not a particle name')
         self.makenames(name)
         self.mass = {
-            'mass' : -1, 'masserr' : 0,
-            'masserrlow' : 0, 'masserrup' : 0,
-            'masslimlow' : 0, 'masslimup' : 0,
+            'mass' : -1, 'masserr' : -1,
+            'masserrlow' : -1, 'masserrup' : -1,
+            'masslimlow' : -1, 'masslimup' : -1,
         }
         self.tau = {
-            'life' : 0, 'lifeerr' : 0,
-            'lifeerrlow' : 0, 'lifeerrup' : 0,
+            'life' : -1, 'lifeerr' : -1,
+            'lifeerrlow' : -1, 'lifeerrup' : -1,
         }
         self.width = {
-            'width' : 0, 'widtherr' : 0,
-            'widtherrlow' : 0, 'widtherrup' : 0,
+            'width' : -1, 'widtherr' : -1,
+            'widtherrlow' : -1, 'widtherrup' : -1,
         }
         return
 
@@ -165,6 +165,9 @@ class Particle(object):
         out.update(self.mass)
         out.update(self.tau)
         out.update(self.width)
+        for k in out:
+            if out[k] < 0:
+                out[k] = None
         out.update({
             'latex' : self.names['latex'],
             'name' : self.names['basicname'],

@@ -4,7 +4,13 @@ import os
 from uncertainties import ufloat
 ################################################################################
 __author__ = 'Sam Hall'
-__all__ = ['particles', 'mass', 'life', 'width']
+__all__ = [
+    'alldata',
+    'particles',
+    'mass', 'umass',
+    'life', 'ulife',
+    'width', 'uwidth',
+]
 ################################################################################
 
 _FUZZ_ERROR_MESSAGE = False
@@ -72,16 +78,18 @@ def _guess(self, n):
 
 ################################################################################
 class DetailErr(pandas.Series):
-    def __init__(self, detail, df):
+    def __init__(self, detail, df, err=True):
         details = {}
-        for k, i in df.iteritems():
-            details.update(
-                {k : ufloat(df[k][detail], df[k]['{}err'.format(detail)])}
-            )
-            details.update(
-                {df[k]['name'] : ufloat(df[k][detail], df[k]['{}err'.format(detail)])}
-            )
-        df = pandas.DataFrame.from_dict({'mass' :details})
+        if err:
+            for k, i in df.iteritems():
+                details.update(
+                    {k : ufloat(df[k][detail], df[k]['{}err'.format(detail)])}
+                )
+            df = pandas.DataFrame.from_dict({'mass' :details})
+        else:
+            for k, i in df.iteritems():
+                details.update({k : df[k][detail]})
+            df = pandas.DataFrame.from_dict({'mass' :details})
         pandas.Series.__init__(self, df['mass'])
         return
 
@@ -91,16 +99,21 @@ class DetailErr(pandas.Series):
 
 ################################################################################
 class Particles(pandas.DataFrame):
-    def __init__(self, df):
+    def __init__(self, df, all_aliases=True):
         dfalias = pandas.DataFrame()
-        for name in df:
-            if name == df[name]['name']:
-                continue
-            dfalias[df[name]['name']] = df[name]
+        if all_aliases:
+            for name in df:
+                if name == df[name]['name']:
+                    continue
+                dfalias[df[name]['name']] = df[name]
         pandas.DataFrame.__init__(self, df.join(dfalias))
-        self.setaliases()
-        self.allaliases()
+        if all_aliases:
+            self.setaliases()
+            self.allaliases()
         return
+
+    #def __getitem__(self, *args, **kwargs):
+        #return super(Particles, self).__getitem__(*args, **kwargs)
 
     def setaliases(self, aliases=_ALIASES):
         for new, old in aliases.iteritems():
@@ -123,6 +136,9 @@ class Particles(pandas.DataFrame):
         '''Fine name in database, best n matches in order'''
         return [x[0] for x in _guess_list(self, name)[:n]]
 
+    def floats(self):
+        df = self.drop(['latex', 'name']).astype(float)
+        return Particles(df, all_aliases=False)
 
 ################################################################################
 csvfile = 'pdg_particles.csv'
@@ -132,8 +148,12 @@ abscsvfile = os.path.join(
 )
 df = pandas.DataFrame.from_csv(abscsvfile)
 
-particles = Particles(df)
-mass = DetailErr('mass', particles)
-life = DetailErr('life', particles)
-width = DetailErr('width', particles)
+alldata = Particles(df)
+particles = alldata.floats()
+mass = DetailErr('mass', particles, err=False)
+life = DetailErr('life', alldata, err=False)
+width = DetailErr('width', alldata, err=False)
+umass = DetailErr('mass', alldata)
+ulife = DetailErr('life', alldata)
+uwidth = DetailErr('width', alldata)
 ################################################################################
